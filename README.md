@@ -9,4 +9,5 @@ Os equipos comerciais existentes no mercado teñen un alto prezo que dificulta a
 Os equipos que se desenvolverán na fase inicial son:
 
 Equipo de medición portátil de transmitancia térmica
-Equipo de medición contínua de parámetros de confort e eficiencia enerxética das aulas (temperatura, humidade, calidade do aire, luminosidade, ruído, etc)
+Equipo de medición contínua de parámetros de confort e eficiencia enerxética das aulas (temperatura, humidade, calidade do aire, luminosidade, ruído, etc).
+
